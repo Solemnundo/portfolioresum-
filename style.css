@@ -1,0 +1,60 @@
+html {
+    background-color: #d1d1d9;
+}
+body,
+main,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+a 
+{
+    padding:0;
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ #name{
+     font-size: 50px;
+     font-weight: bold;
+     line-height: 50px;
+     border-style: solid;
+     border-width: 3px;
+     margin: 0px;
+     padding: 15px;
+ }
+ #title{
+     border-style: solid;
+     border-width: 3px;
+     border-top-width: 0px;
+     padding:10px;
+     padding-left: 16px;
+     line-height: 10px;
+     
+ }
+ #biopic{
+     vertical-align: middle;
+ }
+ #downBtnLG{
+     height: 25px;
+     width: 160px;
+     text-align:center;
+     font-weight: 600;
+     float: right;
+     padding-top:4px;
+     margin: 5px;
+     margin-right: 10px;
+     background-color: navajowhite;
+ }
+ #downBtnSM{
+     display: unset;
+     padding: 10px;
+     margin: 10px; 
+ }
+    
+ 
